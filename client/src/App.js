@@ -9,6 +9,7 @@ function App() {
     <Router>
       <div className="App">
         <Route exact path="/" component={Login} />
+        <h4>Sprint Project</h4>
         {/* 
           Build a PrivateRoute component that will 
           display BubblePage when you're authenticated 
